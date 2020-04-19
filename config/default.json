@@ -1,0 +1,4 @@
+{
+    "mongoURI" : "mongodb+srv://polina:polina123@cluster0-conej.mongodb.net/test?retryWrites=true&w=majority"
+, "jwtSecret": "secret"
+}
